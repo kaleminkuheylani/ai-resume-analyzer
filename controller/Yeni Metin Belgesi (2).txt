@@ -1,0 +1,12 @@
+create a logic for analyzing a resume with AI.
+
+
+FOR:/ANALYZE-RESUME
+
+GEMINI API KEY
+CHECK API KEY IF İT EXIST
+CREATE A MODEL
+USER CAN ADD A RESUME USİNG addResume function.
+
+
+
